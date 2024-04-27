@@ -1,0 +1,15 @@
+{
+  "name": "cross_platform",
+  "version": "1.0.0",
+  "description": "Prototype for future Usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "motiongraphics",
+    "backend"
+  ],
+  "author": "Ja Tse Xing",
+  "license": "ISC"
+}
